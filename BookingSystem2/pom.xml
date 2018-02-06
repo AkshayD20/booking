@@ -29,7 +29,7 @@
 </dependency>
 </dependencies>
 	<build>
-		<finalName>BookingSystem2Maven</finalName>
+		<finalName>BookingSystem2</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
