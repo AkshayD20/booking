@@ -50,6 +50,8 @@
 									<destFileName>webapp-runner.jar</destFileName>
 								</artifactItem>
 							</artifactItems>
+							<source>1.8</source>
+							<target>1.8</target>
 						</configuration>
 					</execution>
 				</executions>
